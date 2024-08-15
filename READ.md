@@ -1,0 +1,1 @@
+HTML ve CSS kullanılarak oluşturulmuş, cam efekti (glassmorphism) tasarımına sahip, görsel açıdan çekici bir dashboard arayüzü. Bu proje, modern ve kullanıcı dostu bir UI tasarımı sunarken, aktif oyun takibi ve dinamik içerik sunumu gibi özellikleri de içermektedir.
